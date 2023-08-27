@@ -132,25 +132,25 @@ addnewtasknpc={
 
 -- Ğ°½ÌÖ÷ÏßÈÎÎñËù¶ÔÓ¦ NPC 
 
-{720,45,2,195,593,3070,0,"Lôc Phi ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Â½·Ç.lua"},
+--{720,45,2,195,593,3070,0,"Lôc Phi ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Â½·Ç.lua"},
 
-{718,90,2,121,2016,4490,0,"§oan Méc Thanh",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_¶ËÄ¾Çå.lua"},
+--{718,90,2,121,2016,4490,0,"§oan Méc Thanh",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_¶ËÄ¾Çå.lua"},
 
-{714,90,2,176,1628,3209,0,"Th¸i C«ng C«ng",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_²Ì¹«¹«.lua"},
+--{714,90,2,176,1628,3209,0,"Th¸i C«ng C«ng",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_²Ì¹«¹«.lua"},
 
-{722,30,2,90,1814,3283,0,"TiÓu Kú Nhi ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Ğ¡ì÷¶ù.lua"},
+--{722,30,2,90,1814,3283,0,"TiÓu Kú Nhi ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Ğ¡ì÷¶ù.lua"},
 
-{719,90,2,80,1592,3118,0,"Tiªu s­ ",0,"\\script\\task\\newtask\\master\\xiepai\\ÑïÖİ_ïÚÊ¦.lua"},
+--{719,90,2,80,1592,3118,0,"Tiªu s­ ",0,"\\script\\task\\newtask\\master\\xiepai\\ÑïÖİ_ïÚÊ¦.lua"},
 
-{716,45,2,21,2710,3947,0,"H¹ HÇu Phôc",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_ÏÄºî¸´.lua"},
+--{716,45,2,21,2710,3947,0,"H¹ HÇu Phôc",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_ÏÄºî¸´.lua"},
 
-{715,90,2,174,1593,3256,0,"Phã L«i Th­ ",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_¸µÀ×Êé.lua"},
+--{715,90,2,174,1593,3256,0,"Phã L«i Th­ ",0,"\\script\\task\\newtask\\master\\xiepai\\Â·ÈË_¸µÀ×Êé.lua"},
 
-{717,55,2,92,1944,3214,0,"TiÕu V« Th­êng ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Ğ¤ÎŞ³£.lua"},
+--{717,55,2,92,1944,3214,0,"TiÕu V« Th­êng ",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Ğ¤ÎŞ³£.lua"},
 
-{721,65,2,40,1688,3032,0,"§å §¹i nh©n",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Í½µ¥´óÈË.lua"},
+--{721,65,2,40,1688,3032,0,"§å §¹i nh©n",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_Í½µ¥´óÈË.lua"},
 
-{694,80,2,94,1551,3149,0,"Liªu §Şnh",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_ÁÎ¶¨.lua"},
+--{694,80,2,94,1551,3149,0,"Liªu §Şnh",0,"\\script\\task\\newtask\\master\\xiepai\\Õ½¶·_ÁÎ¶¨.lua"},
 
 {1320,80,4,37,1714,3173,0,"B×nh B×nh c« n­¬ng",0,"\\script\\missions\\yandibaozang\\npc\\yandibaozang_main.lua"},
 {1320,80,4,37,1642,3145,0,"B×nh B×nh c« n­¬ng",0,"\\script\\missions\\yandibaozang\\npc\\yandibaozang_main.lua"},
