@@ -1,8 +1,0 @@
-2023-05-22 19:09:12	(INF)	mod:SYS	act:GameStart	
-2023-05-22 19:18:20	(INF)	mod:SYS	act:GameStart	
-2023-05-22 19:39:40	(INF)	mod:SYS	act:GameStart	
-2023-05-22 20:04:33	(INF)	mod:SYS	act:GameStart	
-2023-05-22 20:09:49	(INF)	mod:SYS	act:GameStart	
-2023-05-22 20:30:57	(INF)	mod:SYS	act:GameStart	
-2023-05-22 22:06:43	(INF)	mod:SYS	act:GameStart	
-2023-05-22 22:40:59	(INF)	mod:SYS	act:GameClose	

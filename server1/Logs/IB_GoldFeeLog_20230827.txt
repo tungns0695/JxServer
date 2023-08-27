@@ -1,2 +1,0 @@
-  c                    	[2023-08-27 00:22:03]	[SUCCESS]	[ACC]	9	[ROLE]	TÐtgamet	[C]	10	[COUNT]	1	[BUY]	[6-1-2424-1]§¹i Thµnh BÝ KÝp 90	[PLACE]	140
-  c                    	[2023-08-27 00:23:56]	[SUCCESS]	[ACC]	9	[ROLE]	TÐtgamet	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]Håi thiªn t¸i t¹o lÔ bao	[PLACE]	139
