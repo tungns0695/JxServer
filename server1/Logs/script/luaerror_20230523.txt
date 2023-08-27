@@ -1,0 +1,3 @@
+[2023-05-23 19:15:54] error: <statement> expected;
+  last token read: `=' at line 134 in string "/script/skill/shaolin.lua"
+

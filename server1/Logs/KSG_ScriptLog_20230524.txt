@@ -1,0 +1,113 @@
+2023-05-24 18:40:29	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-05-24 18:40:31	[1970-01-01 08:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-05-24 18:47:15	KickOutSelf Account:1  RoleName ChungÙLinhÙTó
+2023-05-24 18:50:09	Battle Start :1rule16Issue13
+2023-05-24 18:50:09	Battle Start :1rule16Issue13
+2023-05-24 18:50:09	Battle Start :1rule16Issue13
+2023-05-24 18:52:16	KickOutSelf Account:1  RoleName ChungÙLinhÙTó
+2023-05-24 19:00:09	marshal battle is entering fight state. now member count=0:0
+2023-05-24 19:00:09	marshal battle is entering fight state. now member count=0:0
+2023-05-24 19:00:09	marshal battle is entering fight state. now member count=0:0
+2023-05-24 19:00:42	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2023-05-24 19:05:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-05-24 19:05:09	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-05-24 19:05:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-05-24 19:05:09	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-05-24 19:05:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-05-24 19:05:09	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-05-24 19:05:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-05-24 19:05:09	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-05-24 19:10:36	KickOutSelf Account:1  RoleName ChungÙLinhÙTó
+2023-05-24 19:15:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-05-24 19:15:09	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-05-24 19:15:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-05-24 19:15:09	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-05-24 19:15:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1615 Y = 3244
+2023-05-24 19:15:09	T¨ng thªm Kim §Æc Th¸m : X = 1371 Y = 3392
+2023-05-24 19:15:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-05-24 19:15:09	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-05-24 19:25:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1597 Y = 3281
+2023-05-24 19:25:09	T¨ng thªm Kim §Æc Th¸m : X = 1385 Y = 3368
+2023-05-24 19:25:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-05-24 19:25:09	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-05-24 19:25:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-05-24 19:25:09	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-05-24 19:25:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-05-24 19:25:09	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-05-24 19:30:09	19:30,566,95,0,76,1671,3220,Cæ B¸ch
+2023-05-24 19:30:09	19:30,740,95,0,198,1624,3072,HuyÒn Gi¸c §¹i S­ 
+2023-05-24 19:30:09	19:30,1366,95,1,37,1535,2902,§­êng Phi YÕn
+2023-05-24 19:30:09	19:30,582,95,1,199,1445,2959,Lam Y Y
+2023-05-24 19:30:09	19:30,568,95,2,322,2046,3351,Hµ Linh Phiªu
+2023-05-24 19:30:09	19:30,744,95,2,225,1289,3261,Yªn HiÓu Tr¸i
+2023-05-24 19:30:09	19:30,583,95,3,224,1739,2857,M¹nh Th­¬ng L­¬ng
+2023-05-24 19:30:09	19:30,563,95,3,205,1495,3110,Gia LuËt TÞ Ly
+2023-05-24 19:30:09	19:30,562,95,4,321,1007,2626,§¹o Thanh Ch©n Nh©n
+2023-05-24 19:30:09	19:30,747,95,4,204,1818,3460,TuyÒn C¬ Tö 
+2023-05-24 19:30:42	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2023-05-24 19:35:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-05-24 19:35:09	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-05-24 19:35:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-05-24 19:35:09	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-05-24 19:35:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-05-24 19:35:09	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-05-24 19:35:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-05-24 19:35:09	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-05-24 19:45:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-05-24 19:45:09	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-05-24 19:45:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1615 Y = 3244
+2023-05-24 19:45:09	T¨ng thªm Kim §Æc Th¸m : X = 1371 Y = 3392
+2023-05-24 19:45:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-05-24 19:45:09	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-05-24 19:45:09	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-05-24 19:45:09	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-05-24 20:00:09	[Battle Log] Ending Misson Begin
+2023-05-24 20:00:09	[Battle Log] battle is ending. now member count=0:0
+2023-05-24 20:00:09	[Battle Log] Sorting World Ladder
+2023-05-24 20:00:09	[Battle Log] Awarding Activity
+2023-05-24 20:00:09	[Battle Log] Awarding Single Player
+2023-05-24 20:00:09	[Battle Log] Awarding by Result
+2023-05-24 20:00:09	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-05-24 20:00:09	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-05-24 20:00:09	[Battle Log] Ready for kick Out
+2023-05-24 20:00:09	[Battle Log] Ending Misson End
+2023-05-24 20:00:09	[Battle Log] Ending Misson Begin
+2023-05-24 20:00:09	[Battle Log] battle is ending. now member count=0:0
+2023-05-24 20:00:09	[Battle Log] Sorting World Ladder
+2023-05-24 20:00:09	[Battle Log] Awarding Activity
+2023-05-24 20:00:09	[Battle Log] Awarding Single Player
+2023-05-24 20:00:09	[Battle Log] Awarding by Result
+2023-05-24 20:00:09	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-05-24 20:00:09	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-05-24 20:00:09	[Battle Log] Ready for kick Out
+2023-05-24 20:00:09	[Battle Log] Ending Misson End
+2023-05-24 20:00:09	[Battle Log] Ending Misson Begin
+2023-05-24 20:00:09	[Battle Log] battle is ending. now member count=0:0
+2023-05-24 20:00:09	[Battle Log] Sorting World Ladder
+2023-05-24 20:00:09	[Battle Log] Awarding Activity
+2023-05-24 20:00:09	[Battle Log] Awarding Single Player
+2023-05-24 20:00:09	[Battle Log] Awarding by Result
+2023-05-24 20:00:09	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-05-24 20:00:09	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-05-24 20:00:09	[Battle Log] Ready for kick Out
+2023-05-24 20:00:09	[Battle Log] Ending Misson End
+2023-05-24 20:00:42	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2023-05-24 20:30:42	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2023-05-24 20:37:26	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-05-24 20:37:28	[1970-01-01 08:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-05-24 20:50:09	Battle Start :1rule16Issue13
+2023-05-24 20:50:09	Battle Start :1rule16Issue13
+2023-05-24 20:50:09	Battle Start :1rule16Issue13
+2023-05-24 20:51:14	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-05-24 20:51:16	[1970-01-01 08:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-05-24 20:59:53	[UseItemSucc]	1970-01-01 08:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-05-24 20:59:54	[1970-01-01 08:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-05-24 21:30:09	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2023-05-24 22:00:09	[CALLBOSS FIXURE]	2023-05-24 22:00:09	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,B¹ch V©n ®éng,60704,101152
+2023-05-24 22:00:09	[CALLBOSS FIXURE]	2023-05-24 22:00:09	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,B¹ch Thñy ®éng,52480,97984
+2023-05-24 22:00:09	[CALLBOSS FIXURE]	2023-05-24 22:00:09	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,Ngäc Hoa ®éng,55040,100064
+2023-05-24 22:00:09	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2023-05-24 22:30:09	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2023-05-24 22:50:09	Battle Start :1rule16Issue13
+2023-05-24 22:50:09	Battle Start :1rule16Issue13
+2023-05-24 22:50:09	Battle Start :1rule16Issue13

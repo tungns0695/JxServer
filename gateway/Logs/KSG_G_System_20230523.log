@@ -1,0 +1,233 @@
+2023-05-23 18:35:32	Deliver statdata: 0 bytes
+2023-05-23 18:36:10	Node[1] connect: Ip(127.0.0.1 : 48144), Identity(1)
+2023-05-23 18:36:10	ClientConnectCreate:[1]127.0.0.1 : 48144
+2023-05-23 18:40:24	GetRoleInfo(§­êngÙB¸ÙHæ) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 18:40:24	GetRoleData(§­êngÙB¸ÙHæ) OK: datalen(2843)
+2023-05-23 18:40:24	EnterGame(§­êngÙB¸ÙHæ) OK: Move from Node[0] to Node[1]
+2023-05-23 18:46:54	QuitSave[§­êngÙB¸ÙHæ] OK: Leave Node[1]
+2023-05-23 18:46:54	SaveRoleData(§­êngÙB¸ÙHæ) OK: datalen(2843)
+2023-05-23 18:47:01	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 18:47:01	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 18:47:01	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-23 19:03:02	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-23 19:03:02	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:03:23	CreateRoleData(ChungÙLinhÙTó) OK: Account(1), datalen(683)
+2023-05-23 19:03:23	EnterGame(ChungÙLinhÙTó) OK: Move from Node[0] to Node[1]
+2023-05-23 19:03:30	QuitSave[ChungÙLinhÙTó] OK: Leave Node[1]
+2023-05-23 19:03:30	SaveRoleData(ChungÙLinhÙTó) OK: datalen(1580)
+2023-05-23 19:03:35	GetRoleInfo(ChungÙLinhÙTó) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 19:03:35	GetRoleData(ChungÙLinhÙTó) OK: datalen(1580)
+2023-05-23 19:03:35	EnterGame(ChungÙLinhÙTó) OK: Move from Node[0] to Node[1]
+2023-05-23 19:09:39	QuitSave[ChungÙLinhÙTó] OK: Leave Node[1]
+2023-05-23 19:09:39	SaveRoleData(ChungÙLinhÙTó) OK: datalen(1572)
+2023-05-23 19:09:42	Node[1] disconnect: Ip(127.0.0.1 : 48144), Identity(1)
+2023-05-23 19:09:42	ClientConnectClose:[1]
+
+2023-05-23 19:10:05	Node[2] connect: Ip(127.0.0.1 : 52822), Identity(2)
+2023-05-23 19:10:05	ClientConnectCreate:[2]127.0.0.1 : 52822
+2023-05-23 19:11:06	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 19:11:06	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:11:06	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[2]
+2023-05-23 19:14:07	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[2]
+2023-05-23 19:14:07	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:14:11	GetRoleInfo(ChungÙLinhÙTó) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 19:14:11	GetRoleData(ChungÙLinhÙTó) OK: datalen(1572)
+2023-05-23 19:14:11	EnterGame(ChungÙLinhÙTó) OK: Move from Node[0] to Node[2]
+2023-05-23 19:15:39	QuitSave[ChungÙLinhÙTó] OK: Leave Node[2]
+2023-05-23 19:15:39	SaveRoleData(ChungÙLinhÙTó) OK: datalen(1588)
+2023-05-23 19:15:42	Node[2] disconnect: Ip(127.0.0.1 : 52822), Identity(2)
+2023-05-23 19:15:42	ClientConnectClose:[2]
+
+2023-05-23 19:16:03	Node[3] connect: Ip(127.0.0.1 : 57750), Identity(3)
+2023-05-23 19:16:03	ClientConnectCreate:[3]127.0.0.1 : 57750
+2023-05-23 19:17:56	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 47345)
+2023-05-23 19:17:56	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:17:56	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[3]
+2023-05-23 19:18:11	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[3]
+2023-05-23 19:18:11	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:22:16	Node[0] connect: Ip(127.0.0.1 : 47349), Identity(0)
+2023-05-23 19:22:16	ClientConnectCreate:[0]127.0.0.1 : 47349
+2023-05-23 19:22:16	Bishop claim from Node[0]!
+2023-05-23 19:22:49	Node[1] connect: Ip(127.0.0.1 : 54365), Identity(1)
+2023-05-23 19:22:49	ClientConnectCreate:[1]127.0.0.1 : 54365
+2023-05-23 19:23:49	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 47349)
+2023-05-23 19:23:49	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 19:23:49	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-23 19:27:24	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-23 19:27:24	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:27:27	GetRoleInfo(ChungÙLinhÙTó) OK: Enter Node[0](127.0.0.1 : 47349)
+2023-05-23 19:27:27	GetRoleData(ChungÙLinhÙTó) OK: datalen(1588)
+2023-05-23 19:27:28	EnterGame(ChungÙLinhÙTó) OK: Move from Node[0] to Node[1]
+2023-05-23 19:28:12	QuitSave[ChungÙLinhÙTó] OK: Leave Node[1]
+2023-05-23 19:28:12	SaveRoleData(ChungÙLinhÙTó) OK: datalen(1588)
+2023-05-23 19:35:57	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 47349)
+2023-05-23 19:35:57	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:35:58	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-23 19:45:58	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-23 19:45:58	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:49:23	Deliver statdata: 0 bytes
+2023-05-23 19:50:01	Node[1] connect: Ip(127.0.0.1 : 44931), Identity(1)
+2023-05-23 19:50:01	ClientConnectCreate:[1]127.0.0.1 : 44931
+2023-05-23 19:51:25	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 19:51:25	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:51:25	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-23 19:51:35	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-23 19:51:35	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:51:45	CreateRoleData(jhdjahkd) OK: Account(2), datalen(683)
+2023-05-23 19:51:46	EnterGame(jhdjahkd) OK: Move from Node[0] to Node[1]
+2023-05-23 19:51:59	QuitSave[jhdjahkd] OK: Leave Node[1]
+2023-05-23 19:51:59	SaveRoleData(jhdjahkd) OK: datalen(1604)
+2023-05-23 19:52:03	GetRoleInfo(jhdjahkd) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 19:52:03	GetRoleData(jhdjahkd) OK: datalen(1604)
+2023-05-23 19:52:03	EnterGame(jhdjahkd) OK: Move from Node[0] to Node[1]
+2023-05-23 19:52:53	QuitSave[jhdjahkd] OK: Leave Node[1]
+2023-05-23 19:52:54	SaveRoleData(jhdjahkd) OK: datalen(1596)
+2023-05-23 19:58:25	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 19:58:25	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 19:58:25	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-23 20:05:36	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-23 20:05:36	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:05:41	Node[1] disconnect: Ip(127.0.0.1 : 44931), Identity(1)
+2023-05-23 20:05:41	ClientConnectClose:[1]
+
+2023-05-23 20:06:02	Node[2] connect: Ip(127.0.0.1 : 45169), Identity(2)
+2023-05-23 20:06:02	ClientConnectCreate:[2]127.0.0.1 : 45169
+2023-05-23 20:07:04	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:07:04	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:07:04	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[2]
+2023-05-23 20:08:47	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[2]
+2023-05-23 20:08:47	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:09:57	CreateRoleData(GiaÙLuËtÙHångÙY) OK: Account(2), datalen(683)
+2023-05-23 20:09:57	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[2]
+2023-05-23 20:10:04	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[2]
+2023-05-23 20:10:04	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(1604)
+2023-05-23 20:10:07	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:10:07	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(1604)
+2023-05-23 20:10:07	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[2]
+2023-05-23 20:17:27	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[2]
+2023-05-23 20:17:27	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3656)
+2023-05-23 20:17:33	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:17:33	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:17:33	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[2]
+2023-05-23 20:17:51	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[2]
+2023-05-23 20:17:51	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:17:55	GetRoleInfo(HångÙL¨ngÙBa) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:17:55	GetRoleData(HångÙL¨ngÙBa) OK: datalen(2624)
+2023-05-23 20:17:55	EnterGame(HångÙL¨ngÙBa) OK: Move from Node[0] to Node[2]
+2023-05-23 20:18:11	QuitSave[HångÙL¨ngÙBa] OK: Leave Node[2]
+2023-05-23 20:18:11	SaveRoleData(HångÙL¨ngÙBa) OK: datalen(2624)
+2023-05-23 20:18:14	GetRoleInfo(ChungÙLinhÙTó) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:18:14	GetRoleData(ChungÙLinhÙTó) OK: datalen(1588)
+2023-05-23 20:18:14	EnterGame(ChungÙLinhÙTó) OK: Move from Node[0] to Node[2]
+2023-05-23 20:18:38	QuitSave[ChungÙLinhÙTó] OK: Leave Node[2]
+2023-05-23 20:18:38	SaveRoleData(ChungÙLinhÙTó) OK: datalen(1588)
+2023-05-23 20:18:43	GetRoleInfo(§­êngÙB¸ÙHæ) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:18:43	GetRoleData(§­êngÙB¸ÙHæ) OK: datalen(2843)
+2023-05-23 20:18:43	EnterGame(§­êngÙB¸ÙHæ) OK: Move from Node[0] to Node[2]
+2023-05-23 20:19:17	QuitSave[§­êngÙB¸ÙHæ] OK: Leave Node[2]
+2023-05-23 20:19:17	SaveRoleData(§­êngÙB¸ÙHæ) OK: datalen(2843)
+2023-05-23 20:19:23	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:19:23	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:19:23	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[2]
+2023-05-23 20:19:30	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[2]
+2023-05-23 20:19:30	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:23:02	Node[2] disconnect: Ip(127.0.0.1 : 45169), Identity(2)
+2023-05-23 20:23:02	ClientConnectClose:[2]
+
+2023-05-23 20:23:24	Node[3] connect: Ip(127.0.0.1 : 51677), Identity(3)
+2023-05-23 20:23:24	ClientConnectCreate:[3]127.0.0.1 : 51677
+2023-05-23 20:24:23	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:24:23	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:24:23	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[3]
+2023-05-23 20:24:40	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[3]
+2023-05-23 20:24:40	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:24:42	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:24:42	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:24:42	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[3]
+2023-05-23 20:24:44	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[3]
+2023-05-23 20:24:44	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 20:24:49	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:24:49	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3656)
+2023-05-23 20:24:49	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[3]
+2023-05-23 20:25:29	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[3]
+2023-05-23 20:25:29	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3664)
+2023-05-23 20:25:32	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:25:32	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3664)
+2023-05-23 20:25:32	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[3]
+2023-05-23 20:26:00	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[3]
+2023-05-23 20:26:00	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3656)
+2023-05-23 20:26:09	CreateRoleData(1111111111111) OK: Account(2), datalen(683)
+2023-05-23 20:26:09	EnterGame(1111111111111) OK: Move from Node[0] to Node[3]
+2023-05-23 20:26:15	QuitSave[1111111111111] OK: Leave Node[3]
+2023-05-23 20:26:15	SaveRoleData(1111111111111) OK: datalen(1588)
+2023-05-23 20:26:21	GetRoleInfo(1111111111111) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:26:21	GetRoleData(1111111111111) OK: datalen(1588)
+2023-05-23 20:26:21	EnterGame(1111111111111) OK: Move from Node[0] to Node[3]
+2023-05-23 20:31:05	QuitSave[1111111111111] OK: Leave Node[3]
+2023-05-23 20:31:05	SaveRoleData(1111111111111) OK: datalen(1580)
+2023-05-23 20:31:08	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:31:08	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3656)
+2023-05-23 20:31:08	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[3]
+2023-05-23 20:42:33	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[3]
+2023-05-23 20:42:33	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 20:42:37	Node[3] disconnect: Ip(127.0.0.1 : 51677), Identity(3)
+2023-05-23 20:42:37	ClientConnectClose:[3]
+
+2023-05-23 20:42:59	Node[4] connect: Ip(127.0.0.1 : 36435), Identity(4)
+2023-05-23 20:42:59	ClientConnectCreate:[4]127.0.0.1 : 36435
+2023-05-23 20:44:06	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:44:06	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 20:44:06	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[4]
+2023-05-23 20:45:12	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[4]
+2023-05-23 20:45:12	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 20:45:19	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:45:19	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2624)
+2023-05-23 20:45:19	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[4]
+2023-05-23 20:48:14	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[4]
+2023-05-23 20:48:14	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:48:27	Node[4] disconnect: Ip(127.0.0.1 : 36435), Identity(4)
+2023-05-23 20:48:27	ClientConnectClose:[4]
+
+2023-05-23 20:48:49	Node[5] connect: Ip(127.0.0.1 : 44080), Identity(5)
+2023-05-23 20:48:49	ClientConnectCreate:[5]127.0.0.1 : 44080
+2023-05-23 20:51:09	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:51:09	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:51:09	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[5]
+2023-05-23 20:51:50	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[5]
+2023-05-23 20:51:50	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:52:53	Node[5] disconnect: Ip(127.0.0.1 : 44080), Identity(5)
+2023-05-23 20:52:53	ClientConnectClose:[5]
+
+2023-05-23 20:53:14	Node[6] connect: Ip(127.0.0.1 : 40512), Identity(6)
+2023-05-23 20:53:14	ClientConnectCreate:[6]127.0.0.1 : 40512
+2023-05-23 20:54:16	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:54:16	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:54:17	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[6]
+2023-05-23 20:55:25	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[6]
+2023-05-23 20:55:25	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 20:55:34	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 20:55:34	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 20:55:34	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[6]
+2023-05-23 20:57:12	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[6]
+2023-05-23 20:57:12	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 20:58:46	Node[6] disconnect: Ip(127.0.0.1 : 40512), Identity(6)
+2023-05-23 20:58:46	ClientConnectClose:[6]
+
+2023-05-23 20:59:08	Node[7] connect: Ip(127.0.0.1 : 36500), Identity(7)
+2023-05-23 20:59:08	ClientConnectCreate:[7]127.0.0.1 : 36500
+2023-05-23 21:00:16	GetRoleInfo(GiaÙLuËtÙHångÙY) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 21:00:16	GetRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 21:00:16	EnterGame(GiaÙLuËtÙHångÙY) OK: Move from Node[0] to Node[7]
+2023-05-23 21:00:59	QuitSave[GiaÙLuËtÙHångÙY] OK: Leave Node[7]
+2023-05-23 21:00:59	SaveRoleData(GiaÙLuËtÙHångÙY) OK: datalen(3672)
+2023-05-23 21:01:06	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 43508)
+2023-05-23 21:01:06	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 21:01:06	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[7]
+2023-05-23 21:02:08	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[7]
+2023-05-23 21:02:08	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2632)
+2023-05-23 21:07:48	Node[7] disconnect: Ip(127.0.0.1 : 36500), Identity(7)
+2023-05-23 21:07:48	ClientConnectClose:[7]
+
+2023-05-23 21:07:50	Node[0] disconnect: Ip(127.0.0.1 : 43508), Identity(0)
+2023-05-23 21:07:50	ClientConnectClose:[0]
+

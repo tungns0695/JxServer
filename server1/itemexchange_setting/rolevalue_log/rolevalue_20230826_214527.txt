@@ -1,0 +1,14 @@
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Tô TiÔn(0,0,1,2,0,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,3,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,1,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,4,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,2,1), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,1,1), unbind = 0, bind = 0
+[Normal]Item: Yªu §ao(0,0,0,1,1,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0

@@ -1,0 +1,52 @@
+2023-05-25 01:38:17	Node[0] connect: Ip(127.0.0.1 : 49459), Identity(0)
+2023-05-25 01:38:17	ClientConnectCreate:[0]127.0.0.1 : 49459
+2023-05-25 01:38:17	Bishop claim from Node[0]!
+2023-05-25 18:30:05	Deliver statdata: 0 bytes
+2023-05-25 18:30:43	Node[1] connect: Ip(127.0.0.1 : 36985), Identity(1)
+2023-05-25 18:30:43	ClientConnectCreate:[1]127.0.0.1 : 36985
+2023-05-25 18:43:21	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 18:43:21	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(3164)
+2023-05-25 18:43:21	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-25 18:45:01	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-25 18:45:01	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2956)
+2023-05-25 18:45:18	GetRoleInfo(§¹tÙMaÙTæÙS­) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 18:45:18	GetRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2956)
+2023-05-25 18:45:18	EnterGame(§¹tÙMaÙTæÙS­) OK: Move from Node[0] to Node[1]
+2023-05-25 18:52:50	QuitSave[§¹tÙMaÙTæÙS­] OK: Leave Node[1]
+2023-05-25 18:52:50	SaveRoleData(§¹tÙMaÙTæÙS­) OK: datalen(2948)
+2023-05-25 18:52:57	GetRoleInfo(PYTAÙGaming) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 18:52:57	GetRoleData(PYTAÙGaming) OK: datalen(2956)
+2023-05-25 18:52:57	EnterGame(PYTAÙGaming) OK: Move from Node[0] to Node[1]
+2023-05-25 18:52:59	QuitSave[PYTAÙGaming] OK: Leave Node[1]
+2023-05-25 18:52:59	SaveRoleData(PYTAÙGaming) OK: datalen(2948)
+2023-05-25 18:53:04	GetRoleInfo(PYTAÙGaming) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 18:53:04	GetRoleData(PYTAÙGaming) OK: datalen(2948)
+2023-05-25 18:53:05	EnterGame(PYTAÙGaming) OK: Move from Node[0] to Node[1]
+2023-05-25 19:06:23	QuitSave[PYTAÙGaming] OK: Leave Node[1]
+2023-05-25 19:06:23	SaveRoleData(PYTAÙGaming) OK: datalen(3111)
+2023-05-25 19:06:34	Node[1] disconnect: Ip(127.0.0.1 : 36985), Identity(1)
+2023-05-25 19:06:34	ClientConnectClose:[1]
+
+2023-05-25 19:06:58	Node[2] connect: Ip(127.0.0.1 : 56244), Identity(2)
+2023-05-25 19:06:58	ClientConnectCreate:[2]127.0.0.1 : 56244
+2023-05-25 19:10:18	GetRoleInfo(PYTAÙGaming) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 19:10:18	GetRoleData(PYTAÙGaming) OK: datalen(3111)
+2023-05-25 19:10:18	EnterGame(PYTAÙGaming) OK: Move from Node[0] to Node[2]
+2023-05-25 19:10:30	QuitSave[PYTAÙGaming] OK: Leave Node[2]
+2023-05-25 19:10:30	SaveRoleData(PYTAÙGaming) OK: datalen(3119)
+2023-05-25 19:10:43	Node[2] disconnect: Ip(127.0.0.1 : 56244), Identity(2)
+2023-05-25 19:10:43	ClientConnectClose:[2]
+
+2023-05-25 19:11:04	Node[3] connect: Ip(127.0.0.1 : 39443), Identity(3)
+2023-05-25 19:11:04	ClientConnectCreate:[3]127.0.0.1 : 39443
+2023-05-25 19:12:02	GetRoleInfo(PYTAÙGaming) OK: Enter Node[0](127.0.0.1 : 35175)
+2023-05-25 19:12:02	GetRoleData(PYTAÙGaming) OK: datalen(3119)
+2023-05-25 19:12:02	EnterGame(PYTAÙGaming) OK: Move from Node[0] to Node[3]
+2023-05-25 19:12:34	QuitSave[PYTAÙGaming] OK: Leave Node[3]
+2023-05-25 19:12:34	SaveRoleData(PYTAÙGaming) OK: datalen(3119)
+2023-05-25 19:12:51	Node[3] disconnect: Ip(127.0.0.1 : 39443), Identity(3)
+2023-05-25 19:12:51	ClientConnectClose:[3]
+
+2023-05-25 19:12:56	Node[0] disconnect: Ip(127.0.0.1 : 35175), Identity(0)
+2023-05-25 19:12:56	ClientConnectClose:[0]
+

@@ -1,0 +1,4 @@
+2023-08-26 21:00:29	(INF)	mod:SYS	act:GameStart	
+2023-08-26 21:00:29	(INF)	mod:TONG	act:dbload	from:new	tongnum:1
+2023-08-26 21:45:11	(INF)	mod:SYS	act:GameStart	
+2023-08-26 21:45:11	(INF)	mod:TONG	act:dbload	from:new	tongnum:1

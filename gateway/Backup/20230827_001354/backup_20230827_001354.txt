@@ -1,0 +1,49 @@
+Account	RoleName	Faction	Level	Money	TranLifeCount	WllsHonor	Energy	PetName	PetLevel	ChanNguyenCount	DocMach	NhamMach	XungMach	DoiMach	AmDuyMach	DuongDuyMach	AmKhieuMach	DuongKhieuMach
+pgaming1	KingOfTheWorld	Begin	160	10649401	3	0	0		0	425600	16	16	12	2	0	0	0	0
+pgaming1	KingOfTheWorld	Begin	160	10649401
+pgaming1	Oliver	ShaoLin	200	44336278	6	0	0		0	80800	10	0	0	0	0	0	0	0
+pgaming1	Oliver	ShaoLin	200	44336278
+tramy	meomeo	KunLun	160	35928743	1	0	0		0	109640	16	16	16	16	16	16	14	14
+tramy	meomeo	KunLun	160	35928743
+pgaming1	DrMagic	ShaoLin	39	10218325	0	0	0		0	1000	0	0	0	0	0	0	0	0
+pgaming1	DrMagic	ShaoLin	39	10218325
+thinh1	United	Begin	120	149994	3	0	0		0	0	0	0	0	0	0	0	0	0
+thinh1	TrungSinh	Begin	10	0	6	0	0		0	0	0	0	0	0	0	0	0	0
+thinh1	FireStorm	Begin	163	15802345	1	0	0		0	52785	16	16	16	16	16	0	16	15
+thinh1	FireStorm	Begin	163	15802345
+thinh2	Tr­¬ngV«KÞ	WuDang	123	249400	0	0	0		0	0	0	0	0	0	0	0	0	0
+huyvnn	MinhGiao	WuDang	200	0	3	0	0		0	100000	0	0	0	0	0	0	0	0
+eurofun	HéiQu¸nVâL©m	Begin	120	4080	0	0	0		0	0	0	0	0	0	0	0	0	0
+test01	VâL©mQu¸n	Begin	120	28	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh922	ádasdasd	TianWang	150	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh920	cAIbANG	NoFaction	150	281519644	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh920	cAIbANG	NoFaction	150	281519644
+minhthanh921	Adminnnnn	NoFaction	150	995682337	6	10	0		0	100	0	0	0	0	0	0	0	0
+minhthanh921	Adminnnnn	NoFaction	150	995682337
+minhthanh920	Q¦EASDASD	Begin	150	1900294	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh921	123adasd	ShaoLin	150	1806773	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh922	12312312123	TianRen	150	250012500	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh922	12312312123	TianRen	150	250012500
+gm02	GameMaster02	Begin	200	12499	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh922	adqweqwe	Begin	150	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh923	ádqweqwe	Begin	60	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh923	234234234	Begin	80	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh923	¸dasdqwe	Begin	150	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh924	¸dqeqwewe	Begin	60	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh924	qeqeqwewq	Begin	70	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh924	¸dqweqe	Begin	60	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh925	ghjrtrty	Begin	60	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh925	Îwerwfd	Begin	60	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh925	q­eadqweq	Begin	70	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh920	adaeqwe	Begin	200	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+eurofun	dfgfdgdgfgd	Begin	200	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+minhthanh921	q­eqeqwe	Begin	30	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+1	tungns	ShaoLin	14	422	0	0	0		0	0	0	0	0	0	0	0	0	0
+3	godlike	Begin	11	34	0	0	0		0	0	0	0	0	0	0	0	0	0
+2	BÐÙSón	Begin	12	140	0	0	0		0	0	0	0	0	0	0	0	0	0
+4	diablo	Begin	11	131	0	0	0		0	0	0	0	0	0	0	0	0	0
+5	demimos	Begin	11	38	0	0	0		0	0	0	0	0	0	0	0	0	0
+6	V­¬ngTrïngD­¬ng	Begin	10	0	0	0	0		0	0	0	0	0	0	0	0	0	0
+7	§­êngTam	Begin	11	155	0	0	0		0	0	0	0	0	0	0	0	0	0
+8	ThiªnTh­¬ng	TianWang	12	9	0	0	0		0	0	0	0	0	0	0	0	0	0
+==Output Finish==

@@ -1,0 +1,430 @@
+2023-08-26 21:00:29	GameServer[0] create: 127.0.0.1 : 39764
+2023-08-26 21:00:52	GameServer[1] create: 127.0.0.1 : 51290
+2023-08-27 00:15:27	GameServer[0] create: 127.0.0.1 : 39771
+2023-08-27 00:16:20	GameServer[1] create: 127.0.0.1 : 54142
+2023-08-27 00:16:31	Gameserver(1) update map ok
+2023-08-27 14:53:56	GameServer[0] create: 127.0.0.1 : 57424
+2023-08-27 14:54:21	GameServer[1] create: 127.0.0.1 : 35189
+2023-08-27 14:54:48	Gameserver(1) update map ok
+2023-08-27 14:54:53	LoginToMap: Account(1), Index(0), IP:192.168.1.1 : 50263
+2023-08-27 14:54:53	ProcessRoleList -> nNextTask(1) m_lnIdentityID 0 m_dwGoddessIdentity:1 Account:1
+2023-08-27 14:54:54	ApplyRoleData Identity: 1 Account:1 Role:tungns
+2023-08-27 14:54:54	SelAddDelRole -> nNextTask(3) m_lnIdentityID 0, m_dwGoddessIdentity:1 Account:1 role: tungns
+2023-08-27 14:54:54	set gameServer: -1=>1
+2023-08-27 14:54:54	set role name: =>tungns
+2023-08-27 14:54:54	_SyncRoleInfo_ToGameServer result is 1 Identity:1 Account:1 Role: tungns
+2023-08-27 14:54:54	Map changed: 0=>53
+2023-08-27 14:54:54	ProcessRoleInfo nNextTask: 8  Identity:1 Account:1
+2023-08-27 14:54:54	GameServer(1) accept account(1), Map(53)
+2023-08-27 14:54:54	set status: 1=>2
+2023-08-27 14:54:54	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 14:55:59	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-08-27 14:55:59	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(0), Role(tungns), Map(53)
+2023-08-27 14:58:10	LoginToMap: Account(1), Index(2), IP:192.168.1.1 : 50512
+2023-08-27 14:58:10	ProcessRoleList -> nNextTask(1) m_lnIdentityID 2 m_dwGoddessIdentity:3 Account:1
+2023-08-27 14:58:10	ApplyRoleData Identity: 3 Account:1 Role:tungns
+2023-08-27 14:58:10	SelAddDelRole -> nNextTask(3) m_lnIdentityID 2, m_dwGoddessIdentity:3 Account:1 role: tungns
+2023-08-27 14:58:10	set gameServer: -1=>1
+2023-08-27 14:58:10	set role name: =>tungns
+2023-08-27 14:58:10	_SyncRoleInfo_ToGameServer result is 1 Identity:3 Account:1 Role: tungns
+2023-08-27 14:58:10	Map changed: 0=>53
+2023-08-27 14:58:10	ProcessRoleInfo nNextTask: 8  Identity:3 Account:1
+2023-08-27 14:58:10	GameServer(1) accept account(1), Map(53)
+2023-08-27 14:58:10	set status: 1=>2
+2023-08-27 14:58:10	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 14:58:13	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 14:58:13	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(2), Role(tungns), Map(53)
+2023-08-27 15:06:28	LoginToMap: Account(1), Index(4), IP:192.168.1.1 : 51087
+2023-08-27 15:06:28	ProcessRoleList -> nNextTask(1) m_lnIdentityID 4 m_dwGoddessIdentity:5 Account:1
+2023-08-27 15:06:29	ApplyRoleData Identity: 5 Account:1 Role:tungns
+2023-08-27 15:06:29	SelAddDelRole -> nNextTask(3) m_lnIdentityID 4, m_dwGoddessIdentity:5 Account:1 role: tungns
+2023-08-27 15:06:29	set gameServer: -1=>1
+2023-08-27 15:06:29	set role name: =>tungns
+2023-08-27 15:06:29	_SyncRoleInfo_ToGameServer result is 1 Identity:5 Account:1 Role: tungns
+2023-08-27 15:06:29	Map changed: 0=>53
+2023-08-27 15:06:29	ProcessRoleInfo nNextTask: 8  Identity:5 Account:1
+2023-08-27 15:06:29	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:06:29	set status: 1=>2
+2023-08-27 15:06:29	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:06:42	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:06:42	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(4), Role(tungns), Map(53)
+2023-08-27 15:20:53	LoginToMap: Account(1), Index(17), IP:192.168.1.1 : 52058
+2023-08-27 15:20:53	ProcessRoleList -> nNextTask(1) m_lnIdentityID 17 m_dwGoddessIdentity:18 Account:1
+2023-08-27 15:20:54	Unlock 1(null): 1
+2023-08-27 15:20:54	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(17), Role(), Map(0)
+2023-08-27 15:23:18	LoginToMap: Account(1), Index(18), IP:192.168.1.1 : 52232
+2023-08-27 15:23:18	ProcessRoleList -> nNextTask(1) m_lnIdentityID 18 m_dwGoddessIdentity:19 Account:1
+2023-08-27 15:23:23	Unlock 1(null): 1
+2023-08-27 15:23:23	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(18), Role(), Map(0)
+2023-08-27 15:23:25	LoginToMap: Account(1), Index(19), IP:192.168.1.1 : 52242
+2023-08-27 15:23:25	ProcessRoleList -> nNextTask(1) m_lnIdentityID 19 m_dwGoddessIdentity:20 Account:1
+2023-08-27 15:23:47	Unlock 1(null): 1
+2023-08-27 15:23:47	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(19), Role(), Map(0)
+2023-08-27 15:24:16	LoginToMap: Account(1), Index(20), IP:192.168.1.1 : 52301
+2023-08-27 15:24:16	ProcessRoleList -> nNextTask(1) m_lnIdentityID 20 m_dwGoddessIdentity:21 Account:1
+2023-08-27 15:24:19	Unlock 1(null): 1
+2023-08-27 15:24:19	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(20), Role(), Map(0)
+2023-08-27 15:25:59	LoginToMap: Account(1), Index(21), IP:192.168.1.1 : 52423
+2023-08-27 15:25:59	ProcessRoleList -> nNextTask(1) m_lnIdentityID 21 m_dwGoddessIdentity:22 Account:1
+2023-08-27 15:26:17	Unlock 1(null): 1
+2023-08-27 15:26:17	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(21), Role(), Map(0)
+2023-08-27 15:26:26	LoginToMap: Account(1), Index(22), IP:192.168.1.1 : 52456
+2023-08-27 15:26:26	ProcessRoleList -> nNextTask(1) m_lnIdentityID 22 m_dwGoddessIdentity:23 Account:1
+2023-08-27 15:26:39	Unlock 1(null): 1
+2023-08-27 15:26:39	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(22), Role(), Map(0)
+2023-08-27 15:27:10	LoginToMap: Account(1), Index(23), IP:192.168.1.1 : 52504
+2023-08-27 15:27:10	ProcessRoleList -> nNextTask(1) m_lnIdentityID 23 m_dwGoddessIdentity:24 Account:1
+2023-08-27 15:27:11	Unlock 1(null): 1
+2023-08-27 15:27:11	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(23), Role(), Map(0)
+2023-08-27 15:28:47	LoginToMap: Account(1), Index(24), IP:192.168.1.1 : 52611
+2023-08-27 15:28:47	ProcessRoleList -> nNextTask(1) m_lnIdentityID 24 m_dwGoddessIdentity:25 Account:1
+2023-08-27 15:29:39	ApplyRoleData Identity: 25 Account:1 Role:tungns
+2023-08-27 15:29:39	SelAddDelRole -> nNextTask(3) m_lnIdentityID 24, m_dwGoddessIdentity:25 Account:1 role: tungns
+2023-08-27 15:29:39	set gameServer: -1=>1
+2023-08-27 15:29:39	set role name: =>tungns
+2023-08-27 15:29:39	_SyncRoleInfo_ToGameServer result is 1 Identity:25 Account:1 Role: tungns
+2023-08-27 15:29:39	Map changed: 0=>53
+2023-08-27 15:29:39	ProcessRoleInfo nNextTask: 8  Identity:25 Account:1
+2023-08-27 15:29:39	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:29:39	set status: 1=>2
+2023-08-27 15:29:39	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:29:43	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:29:43	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(24), Role(tungns), Map(53)
+2023-08-27 15:29:47	LoginToMap: Account(1), Index(25), IP:192.168.1.1 : 52672
+2023-08-27 15:29:47	ProcessRoleList -> nNextTask(1) m_lnIdentityID 25 m_dwGoddessIdentity:26 Account:1
+2023-08-27 15:29:48	ApplyRoleData Identity: 26 Account:1 Role:tungns
+2023-08-27 15:29:48	SelAddDelRole -> nNextTask(3) m_lnIdentityID 25, m_dwGoddessIdentity:26 Account:1 role: tungns
+2023-08-27 15:29:48	set gameServer: -1=>1
+2023-08-27 15:29:48	set role name: =>tungns
+2023-08-27 15:29:48	_SyncRoleInfo_ToGameServer result is 1 Identity:26 Account:1 Role: tungns
+2023-08-27 15:29:48	Map changed: 0=>53
+2023-08-27 15:29:48	ProcessRoleInfo nNextTask: 8  Identity:26 Account:1
+2023-08-27 15:29:48	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:29:48	set status: 1=>2
+2023-08-27 15:29:48	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:29:50	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:29:50	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(25), Role(tungns), Map(53)
+2023-08-27 15:31:15	LoginToMap: Account(1), Index(26), IP:192.168.1.1 : 52772
+2023-08-27 15:31:15	ProcessRoleList -> nNextTask(1) m_lnIdentityID 26 m_dwGoddessIdentity:27 Account:1
+2023-08-27 15:31:18	Unlock 1(null): 1
+2023-08-27 15:31:18	LogoutFromMap: Account(1), GameServer(-1), Status(1), PlayrIndex(26), Role(), Map(0)
+2023-08-27 15:39:19	LoginToMap: Account(1), Index(27), IP:192.168.1.1 : 53282
+2023-08-27 15:39:19	ProcessRoleList -> nNextTask(1) m_lnIdentityID 27 m_dwGoddessIdentity:28 Account:1
+2023-08-27 15:39:19	ApplyRoleData Identity: 28 Account:1 Role:tungns
+2023-08-27 15:39:19	SelAddDelRole -> nNextTask(3) m_lnIdentityID 27, m_dwGoddessIdentity:28 Account:1 role: tungns
+2023-08-27 15:39:19	set gameServer: -1=>1
+2023-08-27 15:39:19	set role name: =>tungns
+2023-08-27 15:39:19	_SyncRoleInfo_ToGameServer result is 1 Identity:28 Account:1 Role: tungns
+2023-08-27 15:39:19	Map changed: 0=>53
+2023-08-27 15:39:19	ProcessRoleInfo nNextTask: 8  Identity:28 Account:1
+2023-08-27 15:39:19	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:39:19	set status: 1=>2
+2023-08-27 15:39:20	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:39:33	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:39:33	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(27), Role(tungns), Map(53)
+2023-08-27 15:40:27	LoginToMap: Account(1), Index(28), IP:192.168.1.1 : 53363
+2023-08-27 15:40:27	ProcessRoleList -> nNextTask(1) m_lnIdentityID 28 m_dwGoddessIdentity:29 Account:1
+2023-08-27 15:40:28	ApplyRoleData Identity: 29 Account:1 Role:tungns
+2023-08-27 15:40:28	SelAddDelRole -> nNextTask(3) m_lnIdentityID 28, m_dwGoddessIdentity:29 Account:1 role: tungns
+2023-08-27 15:40:28	set gameServer: -1=>1
+2023-08-27 15:40:28	set role name: =>tungns
+2023-08-27 15:40:28	_SyncRoleInfo_ToGameServer result is 1 Identity:29 Account:1 Role: tungns
+2023-08-27 15:40:28	Map changed: 0=>53
+2023-08-27 15:40:28	ProcessRoleInfo nNextTask: 8  Identity:29 Account:1
+2023-08-27 15:40:28	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:40:28	set status: 1=>2
+2023-08-27 15:40:28	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:40:38	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:40:38	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(28), Role(tungns), Map(53)
+2023-08-27 15:40:47	LoginToMap: Account(1), Index(29), IP:192.168.1.1 : 53388
+2023-08-27 15:40:47	ProcessRoleList -> nNextTask(1) m_lnIdentityID 29 m_dwGoddessIdentity:30 Account:1
+2023-08-27 15:40:48	ApplyRoleData Identity: 30 Account:1 Role:tungns
+2023-08-27 15:40:48	SelAddDelRole -> nNextTask(3) m_lnIdentityID 29, m_dwGoddessIdentity:30 Account:1 role: tungns
+2023-08-27 15:40:48	set gameServer: -1=>1
+2023-08-27 15:40:48	set role name: =>tungns
+2023-08-27 15:40:48	_SyncRoleInfo_ToGameServer result is 1 Identity:30 Account:1 Role: tungns
+2023-08-27 15:40:48	Map changed: 0=>53
+2023-08-27 15:40:48	ProcessRoleInfo nNextTask: 8  Identity:30 Account:1
+2023-08-27 15:40:48	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:40:48	set status: 1=>2
+2023-08-27 15:40:48	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:40:56	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:40:56	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(29), Role(tungns), Map(53)
+2023-08-27 15:41:05	LoginToMap: Account(1), Index(30), IP:192.168.1.1 : 53407
+2023-08-27 15:41:05	ProcessRoleList -> nNextTask(1) m_lnIdentityID 30 m_dwGoddessIdentity:31 Account:1
+2023-08-27 15:41:05	ApplyRoleData Identity: 31 Account:1 Role:tungns
+2023-08-27 15:41:05	SelAddDelRole -> nNextTask(3) m_lnIdentityID 30, m_dwGoddessIdentity:31 Account:1 role: tungns
+2023-08-27 15:41:05	set gameServer: -1=>1
+2023-08-27 15:41:05	set role name: =>tungns
+2023-08-27 15:41:05	_SyncRoleInfo_ToGameServer result is 1 Identity:31 Account:1 Role: tungns
+2023-08-27 15:41:05	Map changed: 0=>53
+2023-08-27 15:41:05	ProcessRoleInfo nNextTask: 8  Identity:31 Account:1
+2023-08-27 15:41:06	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:41:06	set status: 1=>2
+2023-08-27 15:41:06	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:41:14	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:41:14	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(30), Role(tungns), Map(53)
+2023-08-27 15:41:24	LoginToMap: Account(1), Index(31), IP:192.168.1.1 : 53429
+2023-08-27 15:41:24	ProcessRoleList -> nNextTask(1) m_lnIdentityID 31 m_dwGoddessIdentity:32 Account:1
+2023-08-27 15:41:24	ApplyRoleData Identity: 32 Account:1 Role:tungns
+2023-08-27 15:41:24	SelAddDelRole -> nNextTask(3) m_lnIdentityID 31, m_dwGoddessIdentity:32 Account:1 role: tungns
+2023-08-27 15:41:24	set gameServer: -1=>1
+2023-08-27 15:41:24	set role name: =>tungns
+2023-08-27 15:41:24	_SyncRoleInfo_ToGameServer result is 1 Identity:32 Account:1 Role: tungns
+2023-08-27 15:41:24	Map changed: 0=>53
+2023-08-27 15:41:24	ProcessRoleInfo nNextTask: 8  Identity:32 Account:1
+2023-08-27 15:41:24	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:41:24	set status: 1=>2
+2023-08-27 15:41:24	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:42:17	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:42:17	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(31), Role(tungns), Map(53)
+2023-08-27 15:42:26	LoginToMap: Account(1), Index(32), IP:192.168.1.1 : 53507
+2023-08-27 15:42:26	ProcessRoleList -> nNextTask(1) m_lnIdentityID 32 m_dwGoddessIdentity:33 Account:1
+2023-08-27 15:42:27	ApplyRoleData Identity: 33 Account:1 Role:tungns
+2023-08-27 15:42:27	SelAddDelRole -> nNextTask(3) m_lnIdentityID 32, m_dwGoddessIdentity:33 Account:1 role: tungns
+2023-08-27 15:42:27	set gameServer: -1=>1
+2023-08-27 15:42:27	set role name: =>tungns
+2023-08-27 15:42:27	_SyncRoleInfo_ToGameServer result is 1 Identity:33 Account:1 Role: tungns
+2023-08-27 15:42:27	Map changed: 0=>53
+2023-08-27 15:42:27	ProcessRoleInfo nNextTask: 8  Identity:33 Account:1
+2023-08-27 15:42:27	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:42:27	set status: 1=>2
+2023-08-27 15:42:27	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:43:18	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:43:18	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(32), Role(tungns), Map(53)
+2023-08-27 15:43:35	LoginToMap: Account(1), Index(33), IP:192.168.1.1 : 53581
+2023-08-27 15:43:35	ProcessRoleList -> nNextTask(1) m_lnIdentityID 33 m_dwGoddessIdentity:34 Account:1
+2023-08-27 15:43:35	ApplyRoleData Identity: 34 Account:1 Role:tungns
+2023-08-27 15:43:35	SelAddDelRole -> nNextTask(3) m_lnIdentityID 33, m_dwGoddessIdentity:34 Account:1 role: tungns
+2023-08-27 15:43:36	set gameServer: -1=>1
+2023-08-27 15:43:36	set role name: =>tungns
+2023-08-27 15:43:36	_SyncRoleInfo_ToGameServer result is 1 Identity:34 Account:1 Role: tungns
+2023-08-27 15:43:36	Map changed: 0=>53
+2023-08-27 15:43:36	ProcessRoleInfo nNextTask: 8  Identity:34 Account:1
+2023-08-27 15:43:36	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:43:36	set status: 1=>2
+2023-08-27 15:43:36	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:43:57	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:43:57	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(33), Role(tungns), Map(53)
+2023-08-27 15:44:06	LoginToMap: Account(1), Index(34), IP:192.168.1.1 : 53615
+2023-08-27 15:44:06	ProcessRoleList -> nNextTask(1) m_lnIdentityID 34 m_dwGoddessIdentity:35 Account:1
+2023-08-27 15:44:06	ApplyRoleData Identity: 35 Account:1 Role:tungns
+2023-08-27 15:44:06	SelAddDelRole -> nNextTask(3) m_lnIdentityID 34, m_dwGoddessIdentity:35 Account:1 role: tungns
+2023-08-27 15:44:06	set gameServer: -1=>1
+2023-08-27 15:44:06	set role name: =>tungns
+2023-08-27 15:44:06	_SyncRoleInfo_ToGameServer result is 1 Identity:35 Account:1 Role: tungns
+2023-08-27 15:44:06	Map changed: 0=>53
+2023-08-27 15:44:06	ProcessRoleInfo nNextTask: 8  Identity:35 Account:1
+2023-08-27 15:44:06	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:44:06	set status: 1=>2
+2023-08-27 15:44:06	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:44:29	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:44:29	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(34), Role(tungns), Map(53)
+2023-08-27 15:44:38	LoginToMap: Account(1), Index(35), IP:192.168.1.1 : 53651
+2023-08-27 15:44:38	ProcessRoleList -> nNextTask(1) m_lnIdentityID 35 m_dwGoddessIdentity:36 Account:1
+2023-08-27 15:44:38	ApplyRoleData Identity: 36 Account:1 Role:tungns
+2023-08-27 15:44:38	SelAddDelRole -> nNextTask(3) m_lnIdentityID 35, m_dwGoddessIdentity:36 Account:1 role: tungns
+2023-08-27 15:44:38	set gameServer: -1=>1
+2023-08-27 15:44:38	set role name: =>tungns
+2023-08-27 15:44:38	_SyncRoleInfo_ToGameServer result is 1 Identity:36 Account:1 Role: tungns
+2023-08-27 15:44:38	Map changed: 0=>53
+2023-08-27 15:44:38	ProcessRoleInfo nNextTask: 8  Identity:36 Account:1
+2023-08-27 15:44:38	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:44:38	set status: 1=>2
+2023-08-27 15:44:39	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:45:01	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:45:01	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(35), Role(tungns), Map(53)
+2023-08-27 15:45:09	LoginToMap: Account(1), Index(36), IP:192.168.1.1 : 53688
+2023-08-27 15:45:09	ProcessRoleList -> nNextTask(1) m_lnIdentityID 36 m_dwGoddessIdentity:37 Account:1
+2023-08-27 15:45:10	ApplyRoleData Identity: 37 Account:1 Role:tungns
+2023-08-27 15:45:10	SelAddDelRole -> nNextTask(3) m_lnIdentityID 36, m_dwGoddessIdentity:37 Account:1 role: tungns
+2023-08-27 15:45:10	set gameServer: -1=>1
+2023-08-27 15:45:10	set role name: =>tungns
+2023-08-27 15:45:10	_SyncRoleInfo_ToGameServer result is 1 Identity:37 Account:1 Role: tungns
+2023-08-27 15:45:10	Map changed: 0=>53
+2023-08-27 15:45:10	ProcessRoleInfo nNextTask: 8  Identity:37 Account:1
+2023-08-27 15:45:10	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:45:10	set status: 1=>2
+2023-08-27 15:45:10	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:45:38	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:45:38	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(36), Role(tungns), Map(53)
+2023-08-27 15:45:47	LoginToMap: Account(1), Index(37), IP:192.168.1.1 : 53728
+2023-08-27 15:45:47	ProcessRoleList -> nNextTask(1) m_lnIdentityID 37 m_dwGoddessIdentity:38 Account:1
+2023-08-27 15:45:48	ApplyRoleData Identity: 38 Account:1 Role:tungns
+2023-08-27 15:45:48	SelAddDelRole -> nNextTask(3) m_lnIdentityID 37, m_dwGoddessIdentity:38 Account:1 role: tungns
+2023-08-27 15:45:48	set gameServer: -1=>1
+2023-08-27 15:45:48	set role name: =>tungns
+2023-08-27 15:45:48	_SyncRoleInfo_ToGameServer result is 1 Identity:38 Account:1 Role: tungns
+2023-08-27 15:45:48	Map changed: 0=>53
+2023-08-27 15:45:48	ProcessRoleInfo nNextTask: 8  Identity:38 Account:1
+2023-08-27 15:45:48	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:45:48	set status: 1=>2
+2023-08-27 15:45:48	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:46:20	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:46:20	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(37), Role(tungns), Map(53)
+2023-08-27 15:46:29	LoginToMap: Account(1), Index(38), IP:192.168.1.1 : 53772
+2023-08-27 15:46:29	ProcessRoleList -> nNextTask(1) m_lnIdentityID 38 m_dwGoddessIdentity:39 Account:1
+2023-08-27 15:46:30	ApplyRoleData Identity: 39 Account:1 Role:tungns
+2023-08-27 15:46:30	SelAddDelRole -> nNextTask(3) m_lnIdentityID 38, m_dwGoddessIdentity:39 Account:1 role: tungns
+2023-08-27 15:46:30	set gameServer: -1=>1
+2023-08-27 15:46:30	set role name: =>tungns
+2023-08-27 15:46:30	_SyncRoleInfo_ToGameServer result is 1 Identity:39 Account:1 Role: tungns
+2023-08-27 15:46:30	Map changed: 0=>53
+2023-08-27 15:46:30	ProcessRoleInfo nNextTask: 8  Identity:39 Account:1
+2023-08-27 15:46:30	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:46:30	set status: 1=>2
+2023-08-27 15:46:30	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:52:07	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(5min)
+2023-08-27 15:52:07	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(38), Role(tungns), Map(53)
+2023-08-27 15:52:17	LoginToMap: Account(1), Index(39), IP:192.168.1.1 : 54173
+2023-08-27 15:52:17	ProcessRoleList -> nNextTask(1) m_lnIdentityID 39 m_dwGoddessIdentity:40 Account:1
+2023-08-27 15:52:17	ApplyRoleData Identity: 40 Account:1 Role:tungns
+2023-08-27 15:52:17	SelAddDelRole -> nNextTask(3) m_lnIdentityID 39, m_dwGoddessIdentity:40 Account:1 role: tungns
+2023-08-27 15:52:17	set gameServer: -1=>1
+2023-08-27 15:52:17	set role name: =>tungns
+2023-08-27 15:52:17	_SyncRoleInfo_ToGameServer result is 1 Identity:40 Account:1 Role: tungns
+2023-08-27 15:52:17	Map changed: 0=>53
+2023-08-27 15:52:17	ProcessRoleInfo nNextTask: 8  Identity:40 Account:1
+2023-08-27 15:52:17	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:52:17	set status: 1=>2
+2023-08-27 15:52:17	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:52:23	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:52:23	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(39), Role(tungns), Map(53)
+2023-08-27 15:54:41	LoginToMap: Account(1), Index(40), IP:192.168.1.1 : 54334
+2023-08-27 15:54:41	ProcessRoleList -> nNextTask(1) m_lnIdentityID 40 m_dwGoddessIdentity:41 Account:1
+2023-08-27 15:54:41	ApplyRoleData Identity: 41 Account:1 Role:tungns
+2023-08-27 15:54:41	SelAddDelRole -> nNextTask(3) m_lnIdentityID 40, m_dwGoddessIdentity:41 Account:1 role: tungns
+2023-08-27 15:54:41	set gameServer: -1=>1
+2023-08-27 15:54:41	set role name: =>tungns
+2023-08-27 15:54:41	_SyncRoleInfo_ToGameServer result is 1 Identity:41 Account:1 Role: tungns
+2023-08-27 15:54:41	Map changed: 0=>53
+2023-08-27 15:54:41	ProcessRoleInfo nNextTask: 8  Identity:41 Account:1
+2023-08-27 15:54:42	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:54:42	set status: 1=>2
+2023-08-27 15:54:42	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:56:29	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-08-27 15:56:29	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(40), Role(tungns), Map(53)
+2023-08-27 15:57:08	LoginToMap: Account(1), Index(41), IP:192.168.1.1 : 54490
+2023-08-27 15:57:08	ProcessRoleList -> nNextTask(1) m_lnIdentityID 41 m_dwGoddessIdentity:42 Account:1
+2023-08-27 15:57:09	ApplyRoleData Identity: 42 Account:1 Role:tungns
+2023-08-27 15:57:09	SelAddDelRole -> nNextTask(3) m_lnIdentityID 41, m_dwGoddessIdentity:42 Account:1 role: tungns
+2023-08-27 15:57:09	set gameServer: -1=>1
+2023-08-27 15:57:09	set role name: =>tungns
+2023-08-27 15:57:09	_SyncRoleInfo_ToGameServer result is 1 Identity:42 Account:1 Role: tungns
+2023-08-27 15:57:09	Map changed: 0=>53
+2023-08-27 15:57:09	ProcessRoleInfo nNextTask: 8  Identity:42 Account:1
+2023-08-27 15:57:09	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:57:09	set status: 1=>2
+2023-08-27 15:57:09	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:57:18	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:57:18	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(41), Role(tungns), Map(53)
+2023-08-27 15:58:27	LoginToMap: Account(1), Index(42), IP:192.168.1.1 : 54572
+2023-08-27 15:58:27	ProcessRoleList -> nNextTask(1) m_lnIdentityID 42 m_dwGoddessIdentity:43 Account:1
+2023-08-27 15:58:28	ApplyRoleData Identity: 43 Account:1 Role:tungns
+2023-08-27 15:58:28	SelAddDelRole -> nNextTask(3) m_lnIdentityID 42, m_dwGoddessIdentity:43 Account:1 role: tungns
+2023-08-27 15:58:28	set gameServer: -1=>1
+2023-08-27 15:58:28	set role name: =>tungns
+2023-08-27 15:58:28	_SyncRoleInfo_ToGameServer result is 1 Identity:43 Account:1 Role: tungns
+2023-08-27 15:58:28	Map changed: 0=>53
+2023-08-27 15:58:28	ProcessRoleInfo nNextTask: 8  Identity:43 Account:1
+2023-08-27 15:58:28	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:58:28	set status: 1=>2
+2023-08-27 15:58:28	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:58:52	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:58:52	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(42), Role(tungns), Map(53)
+2023-08-27 15:59:01	LoginToMap: Account(1), Index(43), IP:192.168.1.1 : 54614
+2023-08-27 15:59:01	ProcessRoleList -> nNextTask(1) m_lnIdentityID 43 m_dwGoddessIdentity:44 Account:1
+2023-08-27 15:59:01	ApplyRoleData Identity: 44 Account:1 Role:tungns
+2023-08-27 15:59:01	SelAddDelRole -> nNextTask(3) m_lnIdentityID 43, m_dwGoddessIdentity:44 Account:1 role: tungns
+2023-08-27 15:59:01	set gameServer: -1=>1
+2023-08-27 15:59:01	set role name: =>tungns
+2023-08-27 15:59:01	_SyncRoleInfo_ToGameServer result is 1 Identity:44 Account:1 Role: tungns
+2023-08-27 15:59:01	Map changed: 0=>53
+2023-08-27 15:59:01	ProcessRoleInfo nNextTask: 8  Identity:44 Account:1
+2023-08-27 15:59:01	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:59:01	set status: 1=>2
+2023-08-27 15:59:02	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 15:59:22	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 15:59:22	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(43), Role(tungns), Map(53)
+2023-08-27 15:59:30	LoginToMap: Account(1), Index(44), IP:192.168.1.1 : 54651
+2023-08-27 15:59:30	ProcessRoleList -> nNextTask(1) m_lnIdentityID 44 m_dwGoddessIdentity:45 Account:1
+2023-08-27 15:59:30	ApplyRoleData Identity: 45 Account:1 Role:tungns
+2023-08-27 15:59:30	SelAddDelRole -> nNextTask(3) m_lnIdentityID 44, m_dwGoddessIdentity:45 Account:1 role: tungns
+2023-08-27 15:59:30	set gameServer: -1=>1
+2023-08-27 15:59:30	set role name: =>tungns
+2023-08-27 15:59:30	_SyncRoleInfo_ToGameServer result is 1 Identity:45 Account:1 Role: tungns
+2023-08-27 15:59:30	Map changed: 0=>53
+2023-08-27 15:59:30	ProcessRoleInfo nNextTask: 8  Identity:45 Account:1
+2023-08-27 15:59:30	GameServer(1) accept account(1), Map(53)
+2023-08-27 15:59:30	set status: 1=>2
+2023-08-27 15:59:30	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 16:03:17	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(3min)
+2023-08-27 16:03:17	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(44), Role(tungns), Map(53)
+2023-08-27 16:03:26	LoginToMap: Account(1), Index(45), IP:192.168.1.1 : 54905
+2023-08-27 16:03:26	ProcessRoleList -> nNextTask(1) m_lnIdentityID 45 m_dwGoddessIdentity:46 Account:1
+2023-08-27 16:03:26	ApplyRoleData Identity: 46 Account:1 Role:tungns
+2023-08-27 16:03:26	SelAddDelRole -> nNextTask(3) m_lnIdentityID 45, m_dwGoddessIdentity:46 Account:1 role: tungns
+2023-08-27 16:03:26	set gameServer: -1=>1
+2023-08-27 16:03:26	set role name: =>tungns
+2023-08-27 16:03:26	_SyncRoleInfo_ToGameServer result is 1 Identity:46 Account:1 Role: tungns
+2023-08-27 16:03:26	Map changed: 0=>53
+2023-08-27 16:03:26	ProcessRoleInfo nNextTask: 8  Identity:46 Account:1
+2023-08-27 16:03:26	GameServer(1) accept account(1), Map(53)
+2023-08-27 16:03:26	set status: 1=>2
+2023-08-27 16:03:26	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 16:03:32	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 16:03:32	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(45), Role(tungns), Map(53)
+2023-08-27 16:03:51	LoginToMap: Account(1), Index(46), IP:192.168.1.1 : 54932
+2023-08-27 16:03:51	ProcessRoleList -> nNextTask(1) m_lnIdentityID 46 m_dwGoddessIdentity:47 Account:1
+2023-08-27 16:03:51	ApplyRoleData Identity: 47 Account:1 Role:tungns
+2023-08-27 16:03:51	SelAddDelRole -> nNextTask(3) m_lnIdentityID 46, m_dwGoddessIdentity:47 Account:1 role: tungns
+2023-08-27 16:03:51	set gameServer: -1=>1
+2023-08-27 16:03:51	set role name: =>tungns
+2023-08-27 16:03:51	_SyncRoleInfo_ToGameServer result is 1 Identity:47 Account:1 Role: tungns
+2023-08-27 16:03:51	Map changed: 0=>53
+2023-08-27 16:03:51	ProcessRoleInfo nNextTask: 8  Identity:47 Account:1
+2023-08-27 16:03:51	GameServer(1) accept account(1), Map(53)
+2023-08-27 16:03:51	set status: 1=>2
+2023-08-27 16:03:52	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 16:04:34	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-08-27 16:04:34	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(46), Role(tungns), Map(53)
+2023-08-27 16:04:42	LoginToMap: Account(1), Index(47), IP:192.168.1.1 : 54994
+2023-08-27 16:04:43	ProcessRoleList -> nNextTask(1) m_lnIdentityID 47 m_dwGoddessIdentity:48 Account:1
+2023-08-27 16:04:43	ApplyRoleData Identity: 48 Account:1 Role:tungns
+2023-08-27 16:04:43	SelAddDelRole -> nNextTask(3) m_lnIdentityID 47, m_dwGoddessIdentity:48 Account:1 role: tungns
+2023-08-27 16:04:43	set gameServer: -1=>1
+2023-08-27 16:04:43	set role name: =>tungns
+2023-08-27 16:04:43	_SyncRoleInfo_ToGameServer result is 1 Identity:48 Account:1 Role: tungns
+2023-08-27 16:04:43	Map changed: 0=>53
+2023-08-27 16:04:43	ProcessRoleInfo nNextTask: 8  Identity:48 Account:1
+2023-08-27 16:04:43	GameServer(1) accept account(1), Map(53)
+2023-08-27 16:04:43	set status: 1=>2
+2023-08-27 16:04:43	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 16:21:29	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(16min)
+2023-08-27 16:21:29	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(47), Role(tungns), Map(53)
+2023-08-27 16:23:39	LoginToMap: Account(1), Index(48), IP:192.168.1.1 : 56249
+2023-08-27 16:23:39	ProcessRoleList -> nNextTask(1) m_lnIdentityID 48 m_dwGoddessIdentity:49 Account:1
+2023-08-27 16:23:40	ApplyRoleData Identity: 49 Account:1 Role:tungns
+2023-08-27 16:23:40	SelAddDelRole -> nNextTask(3) m_lnIdentityID 48, m_dwGoddessIdentity:49 Account:1 role: tungns
+2023-08-27 16:23:40	set gameServer: -1=>1
+2023-08-27 16:23:40	set role name: =>tungns
+2023-08-27 16:23:40	_SyncRoleInfo_ToGameServer result is 1 Identity:49 Account:1 Role: tungns
+2023-08-27 16:23:40	Map changed: 0=>53
+2023-08-27 16:23:40	ProcessRoleInfo nNextTask: 8  Identity:49 Account:1
+2023-08-27 16:23:40	GameServer(1) accept account(1), Map(53)
+2023-08-27 16:23:40	set status: 1=>2
+2023-08-27 16:23:40	GameServer(127.0.0.1) notify account(1) enter gameworld
+2023-08-27 16:26:09	GameSever(127.0.0.1) notify account(1) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(2min)
+2023-08-27 16:26:09	LogoutFromMap: Account(1), GameServer(1), Status(2), PlayrIndex(48), Role(tungns), Map(53)
+2023-08-27 16:26:23	LoginToMap: Account(1), Index(49), IP:192.168.1.1 : 56419
+2023-08-27 16:26:23	ProcessRoleList -> nNextTask(1) m_lnIdentityID 49 m_dwGoddessIdentity:50 Account:1
+2023-08-27 16:26:23	ApplyRoleData Identity: 50 Account:1 Role:tungns
+2023-08-27 16:26:23	SelAddDelRole -> nNextTask(3) m_lnIdentityID 49, m_dwGoddessIdentity:50 Account:1 role: tungns
+2023-08-27 16:26:23	set gameServer: -1=>1
+2023-08-27 16:26:23	set role name: =>tungns
+2023-08-27 16:26:23	_SyncRoleInfo_ToGameServer result is 1 Identity:50 Account:1 Role: tungns
+2023-08-27 16:26:23	Map changed: 0=>53
+2023-08-27 16:26:23	ProcessRoleInfo nNextTask: 8  Identity:50 Account:1
+2023-08-27 16:26:23	GameServer(1) accept account(1), Map(53)
+2023-08-27 16:26:23	set status: 1=>2
+2023-08-27 16:26:24	GameServe

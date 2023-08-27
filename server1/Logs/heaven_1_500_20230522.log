@@ -1,0 +1,35 @@
+2023-05-22 19:09:12	heaven(version 2.02) log start....
+2023-05-22 19:10:31	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 19:10:31	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 19:11:16	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 19:11:59	Callback Connectionidx:1, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 19:18:20	heaven(version 2.02) log start....
+2023-05-22 19:20:12	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 19:21:41	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 19:21:47	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 19:39:40	heaven(version 2.02) log start....
+2023-05-22 19:40:49	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:04:22	Callback Connectionidx:0, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:04:33	heaven(version 2.02) log start....
+2023-05-22 20:05:57	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:09:10	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:09:49	heaven(version 2.02) log start....
+2023-05-22 20:14:52	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:14:58	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:15:04	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:20:16	Callback Connectionidx:1, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:20:19	Allocate Connectionidx:2, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:27:27	Callback Connectionidx:2, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:30:57	heaven(version 2.02) log start....
+2023-05-22 20:32:20	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 20:42:19	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 20:47:04	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 21:32:54	Callback Connectionidx:1, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 21:59:25	Allocate Connectionidx:2, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 22:03:19	Callback Connectionidx:2, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 22:06:43	heaven(version 2.02) log start....
+2023-05-22 22:08:03	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 22:17:50	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 22:22:01	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-05-22 22:40:18	Callback Connectionidx:1, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-05-22 22:41:00	heaven log close....

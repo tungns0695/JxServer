@@ -1,0 +1,107 @@
+2023-08-26 21:00:22	Deliver statdata: 0 bytes
+2023-08-26 21:00:52	Node[1] connect: Ip(127.0.0.1 : 43724), Identity(1)
+2023-08-26 21:00:52	ClientConnectCreate:[1]127.0.0.1 : 43724
+2023-08-26 21:12:06	CreateRoleData(tungns) OK: Account(1), datalen(683)
+2023-08-26 21:12:06	EnterGame(tungns) OK: Move from Node[0] to Node[1]
+2023-08-26 21:13:56	QuitSave[tungns] OK: Leave Node[1]
+2023-08-26 21:13:56	SaveRoleData(tungns) OK: datalen(1436)
+2023-08-26 21:15:21	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:15:21	GetRoleData(tungns) OK: datalen(1436)
+2023-08-26 21:15:21	EnterGame(tungns) OK: Move from Node[0] to Node[1]
+2023-08-26 21:18:47	CreateRoleData(BÐÙSón) OK: Account(2), datalen(683)
+2023-08-26 21:18:47	EnterGame(BÐÙSón) OK: Move from Node[0] to Node[1]
+2023-08-26 21:29:17	QuitSave[BÐÙSón] OK: Leave Node[1]
+2023-08-26 21:29:17	SaveRoleData(BÐÙSón) OK: datalen(1444)
+2023-08-26 21:43:52	QuitSave[tungns] OK: Leave Node[1]
+2023-08-26 21:43:52	SaveRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:43:58	Node[1] disconnect: Ip(127.0.0.1 : 43724), Identity(1)
+2023-08-26 21:43:58	ClientConnectClose:[1]
+
+2023-08-26 21:44:05	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:05	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:05	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:10	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:10	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:10	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:15	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:15	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:15	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:20	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:20	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:20	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:31	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:31	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:31	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:41	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:41	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:41	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:44:51	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:44:51	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:44:51	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:45:01	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:45:01	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:45:01	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:45:12	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:45:12	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:45:12	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:45:22	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:45:22	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:45:22	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:45:27	Node[2] connect: Ip(127.0.0.1 : 33247), Identity(2)
+2023-08-26 21:45:27	ClientConnectCreate:[2]127.0.0.1 : 33247
+2023-08-26 21:45:31	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:45:31	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:45:31	LeaveBishop[tungns] OK: Leave Node[0]
+2023-08-26 21:45:41	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:45:41	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:45:41	EnterGame(tungns) OK: Move from Node[0] to Node[2]
+2023-08-26 21:49:31	QuitSave[tungns] OK: Leave Node[2]
+2023-08-26 21:49:31	SaveRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:49:57	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:49:57	GetRoleData(tungns) OK: datalen(1368)
+2023-08-26 21:49:57	EnterGame(tungns) OK: Move from Node[0] to Node[2]
+2023-08-26 21:52:03	GetRoleInfo(BÐÙSón) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 21:52:03	GetRoleData(BÐÙSón) OK: datalen(1444)
+2023-08-26 21:52:03	EnterGame(BÐÙSón) OK: Move from Node[0] to Node[2]
+2023-08-26 21:52:52	CreateRoleData(godlike) OK: Account(3), datalen(683)
+2023-08-26 21:52:52	EnterGame(godlike) OK: Move from Node[0] to Node[2]
+2023-08-26 21:53:26	CreateRoleData(diablo) OK: Account(4), datalen(683)
+2023-08-26 21:53:26	EnterGame(diablo) OK: Move from Node[0] to Node[2]
+2023-08-26 21:54:12	CreateRoleData(demimos) OK: Account(5), datalen(683)
+2023-08-26 21:54:12	EnterGame(demimos) OK: Move from Node[0] to Node[2]
+2023-08-26 21:54:48	CreateRoleData(V­¬ngTrïngD­¬ng) OK: Account(6), datalen(683)
+2023-08-26 21:54:48	EnterGame(V­¬ngTrïngD­¬ng) OK: Move from Node[0] to Node[2]
+2023-08-26 21:55:35	CreateRoleData(§­êngTam) OK: Account(7), datalen(683)
+2023-08-26 21:55:35	EnterGame(§­êngTam) OK: Move from Node[0] to Node[2]
+2023-08-26 21:56:07	CreateRoleData(ThiªnTh­¬ng) OK: Account(8), datalen(683)
+2023-08-26 21:56:07	EnterGame(ThiªnTh­¬ng) OK: Move from Node[0] to Node[2]
+2023-08-26 22:23:17	SaveRoleData(tungns) OK: datalen(1360)
+2023-08-26 22:25:24	SaveRoleData(BÐÙSón) OK: datalen(1560)
+2023-08-26 22:26:13	SaveRoleData(godlike) OK: datalen(1444)
+2023-08-26 22:26:46	SaveRoleData(diablo) OK: datalen(1660)
+2023-08-26 22:27:32	SaveRoleData(demimos) OK: datalen(1560)
+2023-08-26 22:28:09	SaveRoleData(V­¬ngTrïngD­¬ng) OK: datalen(1444)
+2023-08-26 22:28:56	SaveRoleData(§­êngTam) OK: datalen(1552)
+2023-08-26 22:29:27	SaveRoleData(ThiªnTh­¬ng) OK: datalen(1444)
+2023-08-26 22:56:37	SaveRoleData(tungns) OK: datalen(1360)
+2023-08-26 22:58:44	SaveRoleData(BÐÙSón) OK: datalen(2100)
+2023-08-26 22:59:33	SaveRoleData(godlike) OK: datalen(1768)
+2023-08-26 23:00:06	SaveRoleData(diablo) OK: datalen(1768)
+2023-08-26 23:00:22	Deliver statdata: 0 bytes
+2023-08-26 23:00:52	SaveRoleData(demimos) OK: datalen(1560)
+2023-08-26 23:01:29	SaveRoleData(V­¬ngTrïngD­¬ng) OK: datalen(1444)
+2023-08-26 23:02:16	SaveRoleData(§­êngTam) OK: datalen(1560)
+2023-08-26 23:02:47	SaveRoleData(ThiªnTh­¬ng) OK: datalen(1444)
+2023-08-26 23:29:57	SaveRoleData(tungns) OK: datalen(1360)
+2023-08-26 23:32:04	SaveRoleData(BÐÙSón) OK: datalen(2424)
+2023-08-26 23:32:53	SaveRoleData(godlike) OK: datalen(1984)
+2023-08-26 23:33:26	SaveRoleData(diablo) OK: datalen(2092)
+2023-08-26 23:34:12	SaveRoleData(demimos) OK: datalen(1560)
+2023-08-26 23:34:49	SaveRoleData(V­¬ngTrïngD­¬ng) OK: datalen(1444)
+2023-08-26 23:35:35	SaveRoleData(§­êngTam) OK: datalen(1776)
+2023-08-26 23:36:07	SaveRoleData(ThiªnTh­¬ng) OK: datalen(1444)
+2023-08-26 23:50:24	QuitSave[tungns] OK: Leave Node[2]
+2023-08-26 23:50:24	SaveRoleData(tungns) OK: datalen(1716)
+2023-08-26 23:50:57	GetRoleInfo(tungns) OK: Enter Node[0](127.0.0.1 : 54844)
+2023-08-26 23:50:57	GetRoleData(tungns) OK: datalen(1716)
+2023-08-26 23:50:57	EnterGame(tungns) OK: Move from Node[0] to Node[2]
