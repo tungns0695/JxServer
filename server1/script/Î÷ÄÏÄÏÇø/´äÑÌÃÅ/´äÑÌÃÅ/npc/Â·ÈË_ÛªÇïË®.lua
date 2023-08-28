@@ -29,7 +29,7 @@ function old_main()
 	Uworld126 = nt_getTask(126)
 	Uworld1002 = nt_getTask(1002)
 	Say(" Ng­êi sèng trªn ®êi cÇn ph¶i biÕt tr©n träng h¹nh phóc.",3,
-		--"Ta ®Õn lµm nhiÖm vô chİnh tuyÕn/branch_branchliqiushui",
+		"Ta ®Õn lµm nhiÖm vô chİnh tuyÕn/branch_branchliqiushui",
 		"Ta ®Õn lµm nhiÖm vô cÊp 90/tasknpc_nity",
 		"Kh«ng hái n÷a!/no")
 end
