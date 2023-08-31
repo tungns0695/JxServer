@@ -111,7 +111,12 @@ local Def =
 		"add_questionnaire_count",
 		{OBJTYPE_NUMBER},
 	},
-
+	{
+		"emSCRIPT_PROTOCOL_TASKTRACE",
+		"\\script\\tasktrace\\protocol_gs.lua",
+		"proc_tasktrace",
+		{OBJTYPE_NUMBER, OBJTYPE_NUMBER}
+	},
 }
 
 ScriptProtocol:RegProtocolSet(Def)

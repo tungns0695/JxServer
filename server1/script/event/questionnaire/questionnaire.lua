@@ -31,7 +31,7 @@ function onlogin(bExchangeIn)
 end
 
 function add_questionnaire_count(nCount)
-	%pTaskGroup:AddTask(%TSKI_STATE, nCount)
+	--%pTaskGroup:AddTask(%TSKI_STATE, nCount)
 end
 
 function reg_event()
